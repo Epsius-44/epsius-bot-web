@@ -15,7 +15,7 @@ Le tableau ci-dessous récapitule les versions prises en charge pour des mises �
 
 ## Signaler une vulnérabilité
 
-Pour signaler une vulnérabilité merci de bien vouloir envoyer un e-mail avec pour objet <u>**[VULN]epsius-bot-web**<u> à l'adresse email suivante :
+Pour signaler une vulnérabilité merci de bien vouloir envoyer un e-mail avec pour objet `[VULN]epsius-bot-web` à l'adresse email suivante :
 [epsius-44@gmx.fr](mailto:epsius-44@gmx.fr?Subject=[VULN]epsius-bot-web)
 
 Votre e-mail sera traité dans la journée et induira si la vulnérabilité est bien présente une correction dans les plus brefs délais.
